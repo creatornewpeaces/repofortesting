@@ -3,7 +3,8 @@
   "qieryArray": [
     {
       "objectFile": {
-        "something": "string"
+        "something": "string",
+        "test": "hi"
       }
     }
   ]
