@@ -4,7 +4,11 @@
     {
       "objectFile": {
         "something": "string",
-        "test": "hi"
+        "test": "hi",
+        "checkResult": [
+          "one",
+          "two"
+        ]
       }
     }
   ]
