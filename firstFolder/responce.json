@@ -1,0 +1,10 @@
+{
+  "param": "testing",
+  "qieryArray": [
+    {
+      "objectFile": {
+        "something": "string"
+      }
+    }
+  ]
+}
